@@ -1,0 +1,12 @@
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\bin\Debug\net6.0\CalcLib.dll
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\CalcLib.dll
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+D:\Training\phase3\day1\CalculatorTestPro\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll

@@ -1,0 +1,11 @@
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.deps.json
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.dll
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.pdb
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfoInputs.cache
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfo.cs
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.csproj.CoreCompileInputs.cache
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.dll
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\refint\OurCalcLib.dll
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.pdb
+F:\PHASE 4\Day 1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\ref\OurCalcLib.dll
